@@ -1,0 +1,80 @@
+/* Lab 6: Shield & Script Styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial;
+    background-color: #f4f6f9;
+    padding: 1em;
+}
+
+header {
+    text-align: center;
+    background-color: #102a43;
+    color: white;
+    padding: 1.25em;
+    margin-bottom: 1.25em;
+}
+
+header h1 {
+    padding: 5px;
+
+}
+
+header p {
+    padding: 5px;
+
+}
+
+#main-banner {
+    background-color: #0a192f;
+    padding: 1.25em;
+
+}
+
+#main-banner h2 {
+    text-align: center;
+    color: white;
+    padding: 5px;
+    
+}
+
+#main-banner p {
+    text-align: center;
+    color: white;
+    padding: 5px;
+}
+
+.services-text {
+    text-align: left;
+    padding: 20px;
+    padding-left: 5px;
+}
+
+.service-box {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+    height: 100px;
+
+
+}
+
+.service-box h3 {
+    color: #0077cc;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.service-box p {
+    margin-left: 0;
+    position: relative;
+    top: 15px;
+}
